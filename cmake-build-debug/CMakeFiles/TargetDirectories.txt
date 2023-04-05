@@ -1,0 +1,5 @@
+/home/qming/code/C++/compiler/cmake-build-debug/CMakeFiles/compiler.dir
+/home/qming/code/C++/compiler/cmake-build-debug/CMakeFiles/test1.dir
+/home/qming/code/C++/compiler/cmake-build-debug/CMakeFiles/test2.dir
+/home/qming/code/C++/compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/qming/code/C++/compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
